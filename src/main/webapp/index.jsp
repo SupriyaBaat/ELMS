@@ -7,10 +7,7 @@
 <title>ELMS</title>
 </head>
 <body>
-<h1>Hello World</h1>+
-<h2>Coded by Supriya</h2>
-<h2>Coded by Supriya</h2>
-<h2>Coded by Supriya</h2>
-<h2>Coded by Supriya</h2>
+<h1>Hello World</h1>
+<h2> welcome home page</h2>
 </body>
 </html>
